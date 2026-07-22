@@ -24,7 +24,8 @@ A simple sidebar navigation menu built using **HTML** and **CSS**. The sidebar c
 
 ## Preview
 
-<img width="532" height="480" alt="image" src="https://github.com/user-attachments/assets/6aece3d4-0042-4a93-a7b0-40c3a0d75a8f" />
+<img width="946" height="493" alt="Screenshot 2026-07-22 155506" src="https://github.com/user-attachments/assets/04de89a9-3814-453f-9e69-1d4197e5e43f" />
+
 
 ## What I Learned
 
